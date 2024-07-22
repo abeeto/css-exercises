@@ -1,0 +1,16 @@
+.odd {
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.odd:nth-of-type(2) {
+    font-size: 24px;
+}
+#divTwo {
+    color: blue;
+    font-size: 36px;
+}
+#divFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
