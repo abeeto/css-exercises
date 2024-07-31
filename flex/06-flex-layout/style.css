@@ -43,7 +43,6 @@ body {
 
 .header a:hover,.header a:focus, .header a:visited, .footer a:hover, .footer a:visited, .footer a:focus {
   background: #ddd;
-  flex: 1;
 }
 .header a:active, .footer a:active {
   background: #a07605;
